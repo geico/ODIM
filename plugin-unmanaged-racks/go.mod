@@ -45,7 +45,7 @@ require (
 	github.com/iris-contrib/pongo2 v0.0.1 // indirect
 	github.com/iris-contrib/schema v0.0.6 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
-	github.com/kataras/iris v0.0.2 // indirect
+	github.com/kataras/iris v8.2.1+incompatible // indirect
 	github.com/kataras/pio v0.0.11 // indirect
 	github.com/kataras/sitemap v0.0.6 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
@@ -58,6 +58,7 @@ require (
 	github.com/onsi/gomega v1.27.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/ryanuber/columnize v2.1.0+incompatible // indirect
+	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/smartystreets/goconvey v1.7.2 // indirect
